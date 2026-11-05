@@ -11,4 +11,6 @@
 3. После слияния в `main` MkDocs собирает статический сайт.
 4. GitHub Pages публикует артефакт сборки.
 
-Адрес будущего сайта: `https://DmchFast.github.io/devops-docs/`.
+Адрес будущего сайта: `https://DmchFast.github.io/devops-docs/`
+
+[Проверка битой ссылки](missing-page.md)
